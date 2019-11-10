@@ -1,9 +1,14 @@
-# frontend
+# frontend for rentals api
 
 ## Project setup
 ```
-yarn install
+1. yarn install
+
+2. rename .env.example to .env.local 
+
+3. add change VUE_APP_API_URL to match url of Backend(https://github.com/lacasera/laravel-rentals-api)
 ```
+
 
 ### Compiles and hot-reloads for development
 ```
