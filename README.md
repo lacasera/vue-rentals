@@ -6,7 +6,7 @@
 
 2. rename .env.example to .env.local 
 
-3. add change VUE_APP_API_URL to match url of Backend(https://github.com/lacasera/laravel-rentals-api)
+3. change VUE_APP_API_URL to match url of Backend(https://github.com/lacasera/laravel-rentals-api)
 ```
 
 
