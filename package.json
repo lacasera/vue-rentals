@@ -18,7 +18,7 @@
     "clone-deep": "4.0.1",
     "cloudinary-vue": "1.0.0-beta2",
     "core-js": "^2.6.5",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "nuxt-dropzone": "1.0.4",
     "phone-regex": "2.1.0",
     "secure-ls": "1.2.5",
